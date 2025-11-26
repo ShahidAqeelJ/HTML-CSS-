@@ -1,0 +1,95 @@
+body{
+    background-color: lightgoldenrodyellow;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+#home{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+#image{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    margin-top: 50px;
+    gap: 50px;
+    line-height: 1.50;
+    
+}
+
+
+#b1{
+    background-color: bisque;
+    border-radius: 25px;
+    font-family: 'Times New Roman';
+    font-size: large;
+    width: 30%;
+}
+p{
+    font-size:x-large;
+    font-family: 'Times New Roman';
+    
+}
+#img1{
+    text-align: center;
+   border: solid 3px black;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#img2{
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#img3{
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#img4{
+    text-align: center;
+    border: solid 3px black;
+   border-radius: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+#img5{
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#img6{
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+   
+}
+img:hover{
+    width: 330px;
+    height: 330px;
+    transition-duration: 2s;
+opacity: 0.7;
+}
+form{
+    padding: 20px;
+}
+.bb1{
+    margin-left: 5px;
+}
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: large;
+}
