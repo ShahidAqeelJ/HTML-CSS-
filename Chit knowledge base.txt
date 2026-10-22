@@ -1,0 +1,259 @@
+==================================================
+CHIT FUND KNOWLEDGE BASE
+==================================================
+
+SECTION: GENERAL INFORMATION
+
+Q: What is a Chit Fund?
+A: A chit fund is a savings and borrowing scheme where a group of members contribute a fixed amount every month into a common fund. Each month, one member receives the pooled amount through an auction process.
+
+Q: How does a Chit Fund work?
+A: Members contribute monthly installments. The collected amount forms the chit value. An auction is conducted every cycle, and one member receives the prize amount. The process continues until all members receive the benefit.
+
+Q: What is a Chit Cycle?
+A: A chit cycle is one installment period, usually one month. The number of cycles generally equals the number of members in the chit group.
+
+Q: Who can join a Chit Fund?
+A: Any eligible individual who completes registration, submits required documents, and agrees to the terms and conditions can join.
+
+Q: What are the benefits of joining a Chit Fund?
+A: Chit funds help members save regularly and provide access to funds when needed through the auction process.
+
+==================================================
+SECTION: MEMBERSHIP AND REGISTRATION
+==================================================
+
+Q: What documents are required to join a Chit Fund?
+A: Aadhaar Card, PAN Card, Address Proof, Passport-size Photograph, and Bank Account Details.
+
+Q: What is KYC?
+A: KYC stands for Know Your Customer. It is a process used to verify a subscriber's identity and address.
+
+Q: Why is KYC mandatory?
+A: KYC helps prevent fraud, ensures regulatory compliance, and protects both the subscriber and the company.
+
+Q: How do I know if my KYC is verified?
+A: You can check your KYC status through the application or by contacting your branch office.
+
+Q: Can I update my registration details?
+A: Yes. Registration details can be updated after verification and approval.
+
+==================================================
+SECTION: INSTALLMENTS
+==================================================
+
+Q: What is an Installment?
+A: An installment is the fixed monthly amount paid by every subscriber into the chit fund.
+
+Q: How often should installments be paid?
+A: Installments are generally paid once every month according to the chit schedule.
+
+Q: What happens if I miss an installment?
+A: Missing an installment may result in penalties, restrictions on auction participation, or delays in services.
+
+Q: Can I pay installments online?
+A: Yes. Installments can be paid using approved online payment methods.
+
+Q: How can I check my installment history?
+A: Installment history can be viewed in the passbook or account statement section.
+
+Q: Is there a due date for installments?
+A: Yes. Every cycle has a specified due date for installment payment.
+
+==================================================
+SECTION: AUCTIONS
+==================================================
+
+Q: What is a Chit Auction?
+A: A chit auction is the process through which members bid for the prize amount available in a cycle.
+
+Q: How does bidding work?
+A: Members offer discounts on the chit value. The eligible bid selected according to company rules wins the auction.
+
+Q: When are auctions conducted?
+A: Auctions are generally conducted once during every chit cycle according to the announced schedule.
+
+Q: How can I participate in an auction?
+A: Eligible members with up-to-date payments can participate according to company policies.
+
+Q: How can I check upcoming auction dates?
+A: Upcoming auction schedules can be viewed in the application or obtained from the branch office.
+
+Q: How do I know if I won an auction?
+A: Auction results are displayed in the application and communicated through official notifications.
+
+==================================================
+SECTION: PRIZE AMOUNT
+==================================================
+
+Q: What is the Prize Amount?
+A: The prize amount is the amount received by the successful bidder after applicable deductions.
+
+Q: When will the prize amount be released?
+A: Prize amounts are released after verification, surety approval, and completion of required procedures.
+
+Q: Can prize money be delayed?
+A: Yes. Delays may occur if verification or surety requirements are incomplete.
+
+Q: Do I need documents before receiving prize money?
+A: Yes. Required documents and sureties must be approved before disbursement.
+
+==================================================
+SECTION: DIVIDEND
+==================================================
+
+Q: What is a Dividend?
+A: Dividend is the share of the discount amount distributed among subscribers after deducting the foreman's commission.
+
+Q: How is Dividend calculated?
+A: Dividend is calculated from the auction discount amount after applicable deductions and distributed among eligible subscribers.
+
+Q: How do I receive Dividend?
+A: Dividend is generally adjusted against future installments or handled according to company policy.
+
+Q: Can I view my Dividend history?
+A: Yes. Dividend details can be viewed through the passbook or account summary.
+
+Q: Does every member receive a Dividend?
+A: Eligible subscribers may receive dividends according to chit rules and auction results.
+
+==================================================
+SECTION: SUBSCRIBER TYPES
+==================================================
+
+Q: What is a Prized Subscriber (PS)?
+A: A Prized Subscriber is a member who has already received the prize amount.
+
+Q: What is a Non-Prized Subscriber (NPS)?
+A: A Non-Prized Subscriber is a member who has not yet received the prize amount.
+
+Q: Can a Prized Subscriber stop paying installments?
+A: No. Prized subscribers must continue paying installments until completion of the chit.
+
+==================================================
+SECTION: SURETY AND SECURITY
+==================================================
+
+Q: What is a Surety?
+A: A surety is a person or asset that provides security and guarantees obligations related to prize disbursement.
+
+Q: Why is Surety required?
+A: Surety helps protect the company and subscribers by ensuring compliance with repayment obligations.
+
+Q: What types of Surety are accepted?
+A: Personal guarantors, property documents, fixed deposits, and other approved securities.
+
+Q: How long does Surety verification take?
+A: Verification depends on document completeness and approval processes.
+
+Q: Can prize money be released without Surety?
+A: Prize release requirements are governed by company policy and applicable regulations.
+
+==================================================
+SECTION: PAYMENTS
+==================================================
+
+Q: Which payment methods are supported?
+A: UPI, PhonePe, Net Banking, Debit Card, and other approved payment methods.
+
+Q: Can I download payment receipts?
+A: Yes. Receipts can be downloaded after successful payment processing.
+
+Q: What should I do if a payment fails?
+A: Verify the transaction with your bank and contact support with the transaction reference number.
+
+Q: How can I check my payment history?
+A: Payment history is available in your account statement or passbook section.
+
+Q: Are online payments secure?
+A: Approved payment channels use secure transaction processes to protect customer information.
+
+==================================================
+SECTION: PASSBOOK AND STATEMENTS
+==================================================
+
+Q: What is a Passbook?
+A: A passbook is a record of installments, dividends, auction details, and account transactions.
+
+Q: Where can I view my Passbook?
+A: The passbook can be accessed through the mobile application or customer portal.
+
+Q: Can I download my account statement?
+A: Yes. Statements can be downloaded from the account section if available.
+
+Q: What information is available in the statement?
+A: Installment payments, dividend adjustments, auction details, and account transactions.
+
+==================================================
+SECTION: PROFILE MANAGEMENT
+==================================================
+
+Q: How can I update my profile?
+A: Profile updates can be requested through customer support or your branch office.
+
+Q: How do I change my mobile number?
+A: Submit a mobile number update request along with identity verification documents.
+
+Q: How can I update my address?
+A: Provide valid address proof and complete the verification process.
+
+Q: Can I update my bank account details?
+A: Yes. Updated bank documents may be required for verification.
+
+==================================================
+SECTION: COMPLIANCE AND LEGAL
+==================================================
+
+Q: What law governs Chit Funds?
+A: Chit funds operate under applicable laws and regulations governing chit fund businesses.
+
+Q: Why are legal checks necessary?
+A: Legal checks help ensure transparency, compliance, and subscriber protection.
+
+Q: Why are identity documents required?
+A: Identity documents help verify subscriber information and prevent fraud.
+
+==================================================
+SECTION: CUSTOMER SUPPORT
+==================================================
+
+Q: How can I contact customer support?
+A: Customer support can be contacted through the mobile application, branch office, customer care number, or email support.
+
+Q: How can I raise a complaint?
+A: Complaints can be submitted through customer support channels. A support ticket may be created for tracking.
+
+Q: How do I track my complaint?
+A: Complaint status can be tracked using the assigned ticket reference number.
+
+Q: How long does issue resolution take?
+A: Resolution times vary depending on the nature and complexity of the issue.
+
+==================================================
+SECTION: FREQUENTLY ASKED QUESTIONS
+==================================================
+
+Q: What is my next installment date?
+A: Your next installment date can be viewed in your account dashboard.
+
+Q: What is my outstanding balance?
+A: Outstanding balance details are available in your account summary.
+
+Q: How do I know my auction schedule?
+A: Auction schedules are displayed in the application and communicated by the branch.
+
+Q: Can I participate in every auction?
+A: Participation depends on payment status, eligibility, and company policies.
+
+Q: How can I check my dividend amount?
+A: Dividend information is available in the account summary and passbook section.
+
+Q: What happens when the chit period ends?
+A: After all cycles are completed and obligations are fulfilled, the chit account is closed according to company procedures.
+
+Q: How do I get help if I face issues?
+A: Contact customer support through available support channels for assistance.
+
+==================================================
+END OF KNOWLEDGE BASE
+==================================================
