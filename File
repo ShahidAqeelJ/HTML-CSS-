@@ -1,0 +1,26 @@
+AI CHATBOT
+Introduction
+This document explains the workflow of a Streamlit-based chatbot application integrated with the Groq API. It describes how user messages travel from the browser to the Python backend, how the Groq API processes the request, and how the generated response is displayed to the user.
+Application Workflow
+1.	Customer Input: The customer enters a question in the Streamlit chat interface.
+2.	Receive Input: Streamlit receives the customer's question and passes it to the Python backend.
+3.	Knowledge Base Loading: Python reads the Chit knowledge base.txt file and stores its content for use in generating responses.
+4.	System Prompt: The knowledge base is added to the system prompt, which instructs the AI to behave as a Chit Fund Customer Care executive and answer questions politely using only the provided information.
+5.	Session Management: The customer's question and previous conversation messages are stored in Streamlit session state to maintain conversation history.
+6.	Groq API Request: The Python backend uses the Groq SDK to send the system prompt, knowledge base, customer question, and conversation history to the Groq API through HTTPS.
+7.	AI Response Generation: The Groq API processes the request using the openai/gpt-oss-120b model and generates a response.
+8.	Response Received: The generated response is returned to the Python backend, where the actual answer is extracted from the API response.
+9.	Display Response: Python stores the assistant's response in session state, and Streamlit displays it in the chat interface.
+
+
+The application involves two main communication paths:
+	Browser to Backend: The browser communicates with the Streamlit Python runtime, typically through WebSocket communication.
+	Backend to Groq: The Python backend communicates with the Groq API using the Groq SDK over HTTPS.
+The actual Groq API request is generally not visible in Chrome Developer Tools because it originates from the Python backend rather than browser JavaScript.
+Network Entries
+	Preflight: Checks whether a cross-origin request is permitted. It does not generate the chatbot response.
+	Fetch / XHR: May represent Streamlit communication, telemetry, reporting, or other application-related requests. The exact purpose depends on the request details.
+	Status 200: Indicates that the HTTP request was successful, but does not necessarily confirm that the customer's question was answered correctly.
+Summary
+	The Chit Fund Customer Care chatbot uses Streamlit to provide the user interface, Python to manage customer input and conversation history, and the Groq API to generate AI-powered responses.
+	The knowledge base ensures that the chatbot uses the provided Chit Fund information when answering customer queries. Once Groq generates a response, it is returned to the Python backend and displayed to the customer through the Streamlit interface.
